@@ -1,7 +1,7 @@
 //import stuff here
 import java.util.Scanner;
 //Your code here
-public class Program7{
+public class Program{
   public static void main(String[] args){
     int sb;
     int k;
